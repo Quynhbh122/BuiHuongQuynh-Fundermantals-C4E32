@@ -2,7 +2,7 @@ from turtle import *
 
 shape('turtle')
 
-speed(10)
+speed(-1)
 
 right(60)
 for i in range(7):
