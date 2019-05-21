@@ -1,3 +1,4 @@
+
 #R
 print('welcome to our shop, what do you want?')
 inventories = ['T-shirt','Sweater']
